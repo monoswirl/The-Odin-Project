@@ -16,7 +16,7 @@ function getHumanChoice() {
         if (choice == "rock" || choice == "paper" || choice == "scissors") {
             return choice;
         }  
-        choice = prompt("Invalid choice. Choose rock, paper, or scissors.").toLowerCase();
+        choice = prompt("Invalid or misspelled choice. Choose rock, paper, or scissors.").toLowerCase();
     }
 }
 
