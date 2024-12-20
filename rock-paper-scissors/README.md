@@ -1,0 +1,1 @@
+From the foundations path JavaScript section. The project is to create a rock paper scissors game that is played entirely in the console.
